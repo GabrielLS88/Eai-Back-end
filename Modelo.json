@@ -1,0 +1,29 @@
+{
+  "_id": 1,
+  "paciente_responsavel": {
+    "id": 123,
+    "nome": "Maria Oliveira"
+  },
+  "funcionario_responsavel": {
+    "id": 45,
+    "nome": "Dr. João Souza"
+  },
+  "unidade_responsavel": {
+    "id": 3,
+    "nome": "Clínica Central"
+  },
+  "servico_solicitado": {
+    "id": 12,
+    "descricao": "Consulta Clínica Geral"
+  },
+  "forma_de_pagamento": {
+    "id": 2,
+    "descricao": "Cartão de Crédito"
+  },
+  "status_agendamento": {
+    "id": 1,
+    "descricao": "Confirmado"
+  },
+  "data_de_agendamento_criado": "2025-05-20T09:30:00",
+  "data_de_agendamento_marcado": "2025-05-23T14:00:00"
+}
